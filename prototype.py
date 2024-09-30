@@ -20,6 +20,6 @@ def check_criteria(ticket: str, criteria: str):
     content = json.loads(json.loads(response.content).get('response'))
     return response.content
 
-with open('./criterion/CQSE', mode='r') as criteria_file, open('./ticket', mode='r') as ticket_file:
+with open('./criterion/', mode='r') as criteria_file, open('./ticket', mode='r') as ticket_file:
     for line in criteria_file:
         print(check_criteria(ticket_file.read(), line))
