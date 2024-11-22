@@ -1,0 +1,159 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="5vmXxfO88FT9tomjMx6W">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="90" y="540" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-8" value="" style="image;html=1;image=img/lib/atlassian/Confluence_Logo.svg;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="220" y="1467.5" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-11" value="Large Language Model (LLM)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="325" y="566" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="YeTjv56BRFpo-G5yWJxi-11" target="YeTjv56BRFpo-G5yWJxi-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="368" y="599.5" as="sourcePoint" />
+            <mxPoint x="470" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="103" y="546" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-16" value="Structured Criteria" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.checklist;fillColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="518.0600000000001" y="567.75" width="55.5" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="90" y="700" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-22" value="LLM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="325" y="762" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-24" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="103" y="706" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-31" value="Criterion" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="124.43" y="731" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-33" value="Unstructured Guideline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="138.87" y="567.75" width="47.13" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="YeTjv56BRFpo-G5yWJxi-33" target="YeTjv56BRFpo-G5yWJxi-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-35" value="Requirement" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="124.43" y="811.21" width="47.13" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="YeTjv56BRFpo-G5yWJxi-31" target="YeTjv56BRFpo-G5yWJxi-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176.86999999999995" y="756" as="sourcePoint" />
+            <mxPoint x="260.11045454545456" y="796.0285714285715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="756" />
+              <mxPoint x="216" y="796" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="YeTjv56BRFpo-G5yWJxi-35" target="YeTjv56BRFpo-G5yWJxi-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197.51" y="801" as="sourcePoint" />
+            <mxPoint x="260.11045454545456" y="796.0285714285715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="843" />
+              <mxPoint x="216" y="796" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YeTjv56BRFpo-G5yWJxi-65" value="&lt;font&gt;Determine Criteria&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="112" y="541" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zBrjXnkHMv9mhZSaSLGh-3" value="&lt;font&gt;Analyze Requirements&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="113" y="701" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zBrjXnkHMv9mhZSaSLGh-19" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="123" y="1460" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-8" value="Few-shot Prompting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="329" y="736" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-14" value="Feedback" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="500" y="766" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="YeTjv56BRFpo-G5yWJxi-22" target="zOgV6J2zN-2MGK17-jCR-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435.56" y="843.05" as="sourcePoint" />
+            <mxPoint x="489.56" y="843.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="90" y="940" width="530" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-19" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="103" y="945" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-20" value="&lt;font&gt;Refine Requirements&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="113" y="940" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-21" value="Requirement" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="130.86" y="970" width="47.13" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zOgV6J2zN-2MGK17-jCR-24" value="Approved Feedback" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/marketing-outline-13/64/Review-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="124.43" y="1070" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-1" value="LLM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="325" y="1014.25" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="zOgV6J2zN-2MGK17-jCR-24" target="Ny43NAUYu4w67Yq12sUt-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227.86" y="1350" as="sourcePoint" />
+            <mxPoint x="421.42000000000013" y="1270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227.86" y="1100" />
+              <mxPoint x="227.86" y="1047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-4" value="Refined Requirement" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="522.25" y="1014.25" width="47.13" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="Ny43NAUYu4w67Yq12sUt-1" target="Ny43NAUYu4w67Yq12sUt-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.8900000000002" y="1046.26" as="sourcePoint" />
+            <mxPoint x="522.2504545454545" y="1046.26" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="1047" />
+              <mxPoint x="460" y="1047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#D4D4D4;fillStyle=auto;strokeColor=#D4D4D4;fontFamily=Times New Roman;" parent="1" source="zOgV6J2zN-2MGK17-jCR-21" target="Ny43NAUYu4w67Yq12sUt-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337.98954545454535" y="1380.5" as="sourcePoint" />
+            <mxPoint x="647.9699999999999" y="1330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="227.86" y="1000" />
+              <mxPoint x="227.86" y="1047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="Ny43NAUYu4w67Yq12sUt-8" target="zOgV6J2zN-2MGK17-jCR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="Ny43NAUYu4w67Yq12sUt-8" target="YeTjv56BRFpo-G5yWJxi-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;fontFamily=Times New Roman;" parent="1" source="Ny43NAUYu4w67Yq12sUt-8" target="Ny43NAUYu4w67Yq12sUt-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny43NAUYu4w67Yq12sUt-8" value="Requirements Engineer" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="730" y="765" width="61" height="61" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
