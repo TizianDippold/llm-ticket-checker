@@ -1,0 +1,8 @@
+venv
+.env
+system_description/**
+criterion/**
+tickets/**
+checklist/**
+data/**
+subjects/**
