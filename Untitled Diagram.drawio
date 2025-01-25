@@ -32,7 +32,7 @@
           <mxGeometry x="508" y="744.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-31" value="Meta-Requirement" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="140.31" y="780" width="50" height="50" as="geometry" />
+          <mxGeometry x="137.43" y="780" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-33" value="Specific Guideline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="138.87" y="531.75" width="47.13" height="64.5" as="geometry" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-35" value="Requirement Artifact" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="141.74" y="865.21" width="47.13" height="64.5" as="geometry" />
+          <mxGeometry x="138.87" y="865.21" width="47.13" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillStyle=auto;fontFamily=Times New Roman;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YeTjv56BRFpo-G5yWJxi-31" target="YeTjv56BRFpo-G5yWJxi-22" edge="1">
           <mxGeometry relative="1" as="geometry">
