@@ -23,7 +23,7 @@
           <mxGeometry x="103" y="490" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="90" y="730" width="570" height="270" as="geometry" />
+          <mxGeometry x="90" y="730" width="570" height="260" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-22" value="LLM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="321" y="819" width="68" height="68" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry x="23.629999999999995" y="51" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TgJjFYWRnWcH9sEDdv5T-90" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="490" y="949" width="20" height="20" as="geometry" />
+          <mxGeometry x="500" y="949" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TgJjFYWRnWcH9sEDdv5T-91" value="&lt;font&gt;Requirement Enhancement&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="511.5" y="944" width="140.5" height="30" as="geometry" />
+          <mxGeometry x="520" y="944" width="138.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
