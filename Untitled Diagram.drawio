@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="5vmXxfO88FT9tomjMx6W">
-    <mxGraphModel dx="868" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YeTjv56BRFpo-G5yWJxi-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="90" y="480" width="570" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="YeTjv56BRFpo-G5yWJxi-8" value="" style="image;html=1;image=img/lib/atlassian/Confluence_Logo.svg;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1467.5" width="63" height="57" as="geometry" />
         </mxCell>
         <mxCell id="YeTjv56BRFpo-G5yWJxi-11" value="Large Language Model (LLM)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-regular-vol-1/24/bx-brain-128.png;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="325" y="530" width="68" height="68" as="geometry" />
@@ -68,9 +65,6 @@
         </mxCell>
         <mxCell id="zBrjXnkHMv9mhZSaSLGh-3" value="&lt;font&gt;Requirement Analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="529.5" y="739.5" width="117" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zBrjXnkHMv9mhZSaSLGh-19" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="123" y="1460" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="zOgV6J2zN-2MGK17-jCR-8" value="Few-shot Prompting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="325" y="790" width="60" height="30" as="geometry" />
